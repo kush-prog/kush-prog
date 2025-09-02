@@ -1,6 +1,24 @@
-# 💫 About Me:
-<br>👋 Hello, I'm Kush Chauhan<br>🚀 Aspiring Software Developer | 💻 Backend Developer Intern at Your Exam Sathi | 🎓 B.Tech (2026)<br><br>🌟 About Me:<br>Passionate about scalable backend systems with experience in Java, Spring Boot, and problem-solving.<br><br>🔧 Tech Stack:<br>Java, Python, Spring Boot, Hibernate, Docker, MySQL, React<br><br>🛠️ Projects:<br><br>COVID-19 Data Analysis: ML for trend prediction on Kaggle data.<br>Chat App: Real-time secure messaging with Spring Boot & WebSocket.<br>Invoice System: Full-stack app with React & Spring Boot.<br><br>🏆 Achievements:<br><br>5-Star Coder on Hacker Rank (Java, C)<br>Solved 150+ coding problems (LeetCode, GFG)
+## 👨‍💻 About Me  
 
+Hi! I’m **Kush Chauhan**, a **Backend Developer Intern** and **Computer Science student (B.Tech, ABES Engineering College, 2026)** with a strong passion for designing and developing **scalable backend systems, secure APIs, and AI-driven applications**. Over the past few years, I’ve worked on multiple projects ranging from **e-commerce platforms** and **real-time chat applications** to **machine learning models** for data analysis and prediction. My focus is on combining solid backend engineering principles with modern tools like **Spring Boot, Docker, and Generative AI frameworks** to create reliable, efficient, and innovative solutions.  
+
+💡 **What I Do:**  
+- Develop **secure REST APIs** using Java & Spring Boot  
+- Integrate **AI models (OpenAI, Spring AI)** into applications  
+- Build **data-driven solutions** with Python & ML libraries  
+- Work with relational & NoSQL **databases** for scalable systems  
+
+🚀 **Experience & Highlights:**  
+- **Backend Developer Intern** at *Naval Innovators (Your Exam Saathi)* – Designed and optimized APIs with **OAuth 2.0**, boosting performance and reliability.  
+- **Team Lead** for a COVID-19 ML project – Guided 3 peers in applying regression, clustering, and predictive modeling to analyze pandemic trends.  
+- **E-Commerce Backend Project** – Built a shopping cart system with **JWT authentication, cart management, and product APIs**.  
+- **Spring AI Models** – Experimented with **chat, image, and audio generation** by integrating AI models into Spring Boot.  
+- **Problem Solving** – Solved **150+ coding problems** across LeetCode, HackerRank, and GFG (⭐ 5-star in Java & C, ⭐ 4-star in Python).  
+- **Achievements** – Reached **Gold League** (10,000+ pts) in Google Cloud Arcade for Generative AI labs.  
+
+📌 **Currently:** Interning as a **Backend Developer**, focusing on **API optimization, database management, and secure system design**.  
+
+🌟 I’m always open to **collaborating on projects, exploring open source, and learning emerging technologies**.  
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
